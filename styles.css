@@ -2,10 +2,18 @@
     font-size: 13px;
 }
 
-.facilidades {
+.divs-facilidades {
     width: 325px;
 }
 
-.custom-verde {
-    color: #DAFF01;
+.div-novidades {
+    width: 325px;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
 }
